@@ -26,8 +26,13 @@ The "Defense Infrastructure and Geopolitical Tension Monitoring" project focuses
 **Technologies Used :** 
 
 **Data Processing:** Python (Pandas, NumPy)
+
 **Machine Learning:** Scikit-learn, TensorFlow, Keras
+
 **Natural Language Processing:** SpaCy, NLTK
+
 **Visualization:** Matplotlib, Plotly, Seaborn, Geopandas
+
 **Real-time Monitoring:** APIs for news and social media data
+
 **Geospatial Analysis:** Geopandas, Shapely
